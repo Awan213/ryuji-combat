@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "ryujicombat",
+  "version": "1.0.0",
+  "name": "Ryuji Combat Mod",
+  "description": "Adds dash, parry, slide, and double jump skills.",
+  "authors": [
+    "BungModder"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.ryujicombat.RyujiCombatMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": "0.16.10",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
